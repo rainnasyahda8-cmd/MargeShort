@@ -17,5 +17,9 @@ void input()
         {
             break;
         }
+        else
+        {
+            
+        }
     }
 }
